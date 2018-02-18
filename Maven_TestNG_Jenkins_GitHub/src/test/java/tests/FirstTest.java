@@ -6,8 +6,8 @@ public class FirstTest {
   @Test
   public void f() 
   {
-	  System.out.println("Avinash");
-	  System.out.println("Avinash");
-	  System.out.println("Avinash"); //
+	  System.out.println("Avinash ");
+	  System.out.println("Avinash ");
+	  System.out.println("Avinash "); //
   }
 }
